@@ -263,9 +263,9 @@ int main(void){
 			printf("	p : part search data\n");
 			printf("	i : insert data\n");
 			printf("	pre : pre-order tree print\n");
-			printf("	in : pre-order tree print\n");
-			printf("	post : pre-order tree print\n");
-			printf("	level : pre-order tree print\n");
+			printf("	in : in-order tree print\n");
+			printf("	post : post-order tree print\n");
+			printf("	level : level-order tree print\n");
 			printf("	exit : exit data\n");
 			printf("\n");
 			printf("**********************************************\n");
